@@ -1,12 +1,12 @@
-Boas vindas ao meu perfil ⚡
+### Boas vindas ao meu perfil ⚡
 
-Meu nome é Gislaine Macedo
+Meu nome é **Gislaine Macedo**
 
-Estou estudando na Alura
+Estou estudando na Alura(https://alura.com.br)
 Estou me desenvolvendo na linguagem JavaScript
 
 Itilizo esse espaçopara minha organização e compartilhamento de projetos.
 
-Você pode entrar em contato comigo! 📫
+### Você pode entrar em contato comigo! 📫
 
 0000
